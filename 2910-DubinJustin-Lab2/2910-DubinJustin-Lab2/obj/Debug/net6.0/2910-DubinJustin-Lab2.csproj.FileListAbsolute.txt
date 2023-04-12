@@ -1,0 +1,17 @@
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\bin\Debug\net6.0\2910-DubinJustin-Lab2.exe
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\bin\Debug\net6.0\2910-DubinJustin-Lab2.deps.json
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\bin\Debug\net6.0\2910-DubinJustin-Lab2.runtimeconfig.json
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\bin\Debug\net6.0\2910-DubinJustin-Lab2.dll
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\bin\Debug\net6.0\2910-DubinJustin-Lab2.pdb
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.csproj.AssemblyReference.cache
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.AssemblyInfoInputs.cache
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.AssemblyInfo.cs
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.dll
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\refint\2910-DubinJustin-Lab2.dll
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.pdb
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.genruntimeconfig.cache
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\ref\2910-DubinJustin-Lab2.dll
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\dubinj\OneDrive - East Tennessee State University\Documents\ETSU\Spring 2023\CSCI-2910-001\Labs\2910-DubinJustin-Lab2\2910-DubinJustin-Lab2\obj\Debug\net6.0\2910-DubinJustin-Lab2.csproj.CopyComplete
